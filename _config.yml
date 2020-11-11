@@ -38,7 +38,7 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
+  disqus: true
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
@@ -46,7 +46,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'zhihu']
+social-share-items: ['wechat', 'zhihu']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
