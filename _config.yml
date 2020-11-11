@@ -27,7 +27,7 @@ footer:
 # Author 配置博主信息
 author: 'THJ'
 #nickname: '悟空'
-bio: 'LINUX，技术&生活，简单'
+bio: 'LINUX，技术&生活'
 avatar: '/assets/img/avatar-THJ-20201111.jpg'
 
 # Search
@@ -46,7 +46,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'zhihu']
+social-share-items: ['wechat', 'weibo', 'zhihu']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
